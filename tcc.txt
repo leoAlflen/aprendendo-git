@@ -1,0 +1,10 @@
+titulo:programando rails com api
+desricao 
+resumo: como programa
+sumario
+cap1
+cap2
+cap3
+...
+referencias
+...
